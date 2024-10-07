@@ -1,0 +1,3 @@
+simple-salesforce
+openpyxl
+python-dotenv
